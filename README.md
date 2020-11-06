@@ -1,1 +1,1 @@
-# rd_support
+# comp_support
